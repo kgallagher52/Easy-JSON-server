@@ -1,0 +1,88 @@
+{ 
+   "categories":{ 
+      "data":[ 
+         { 
+            "id":0,
+            "name":"Commercial Cellular Amplifiers",
+            "handle":"commercial",
+            "imageUrl":"https://cdn2.hubspot.net/hubfs/1886759/_web/collections/commercial-header.png"
+         }
+      ],
+      "count":10
+   },
+ "products": {
+		"data": [
+			{
+				"id": 0,
+				"sku": "460151",
+				"handle": "enterprise-4300",
+				"name": "Enterprise 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Enterprise-4300-Grouping-Web.png"
+      },
+      {
+				"id": 1,
+				"sku": "460152",
+				"handle": "Home-4300",
+				"name": "Home 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Home-4300-Grouping-Web.png"
+			},	{
+				"id": 2,
+				"sku": "460153",
+				"handle": "Vehical-4300",
+				"name": "Vehical 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Vehical-4300-Grouping-Web.png"
+			},	{
+				"id": 3,
+				"sku": "460154",
+				"handle": "Random-4300",
+				"name": "random 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/random-4300-Grouping-Web.png"
+			},	{
+				"id": 4,
+				"sku": "460755",
+				"handle": "rv-4300",
+				"name": "rv 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/rv-4300-Grouping-Web.png"
+			},	{
+				"id": 5,
+				"sku": "465156",
+				"handle": "enterprise-4000",
+				"name": "Enterprise 4000",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Enterprise-4000-Grouping-Web.png"
+      },
+      {
+				"id": 6,
+				"sku": "410157",
+				"handle": "4300",
+				"name": "4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/4300-Grouping-Web.png"
+      },
+      {
+				"id": 7,
+				"sku": "450152",
+				"handle": "panda-4300",
+				"name": "panda 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/panda-4300-Grouping-Web.png"
+			},	{
+				"id": 8,
+				"sku": "460173",
+				"handle": "giant-4300",
+				"name": "giant 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/giant-4300-Grouping-Web.png"
+			},	{
+				"id": 9,
+				"sku": "460144",
+				"handle": "dog-4300",
+				"name": "dog 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/dog-4300-Grouping-Web.png"
+			},	{
+				"id": 10,
+				"sku": "461155",
+				"handle": "cat-4300",
+				"name": "cat 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/cat-4300-Grouping-Web.png"
+			}
+		],
+		"count": 10
+	}
+}

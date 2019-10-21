@@ -1,0 +1,80 @@
+{
+	"categories": {
+		"data": [
+			{
+				"id": 0,
+				"name": "Commercial Cellular Amplifiers",
+				"handle": "commercial",
+				"imageUrl": "https://cdn2.hubspot.net/hubfs/1886759/_web/collections/commercial-header.png"
+			},
+			{
+				"id": 1,
+				"name": "vehical Cellular Amplifiers",
+				"handle": "vehical",
+				"imageUrl": "https://cdn2.hubspot.net/hubfs/1886759/_web/collections/vehical-header.png"
+			},
+			{
+				"id": 2,
+				"name": "Rv Cellular Amplifiers",
+				"handle": "rv",
+				"imageUrl": "https://cdn2.hubspot.net/hubfs/1886759/_web/collections/rv-header.png"
+			},
+			{
+				"id": 3,
+				"name": "home Cellular Amplifiers",
+				"handle": "home",
+				"imageUrl": "https://cdn2.hubspot.net/hubfs/1886759/_web/collections/home-header.png"
+			},
+			{
+				"id": 4,
+				"name": "Random Cellular Amplifiers",
+				"handle": "Random",
+				"imageUrl": "https://cdn2.hubspot.net/hubfs/1886759/_web/collections/random-header.png"
+			}
+		],
+		"count": 5
+	},
+	"products": {
+		"data": [
+			{
+				"id": 0,
+				"sku": "460151",
+				"handle": "enterprise-4300",
+				"name": "Enterprise 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Enterprise-4300-Grouping-Web.png"
+      },
+      {
+				"id": 1,
+				"sku": "460152",
+				"handle": "Home-4300",
+				"name": "Home 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Home-4300-Grouping-Web.png"
+			},	{
+				"id": 2,
+				"sku": "460153",
+				"handle": "Vehical-4300",
+				"name": "Vehical 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Vehical-4300-Grouping-Web.png"
+			},	{
+				"id": 3,
+				"sku": "460154",
+				"handle": "Random-4300",
+				"name": "random 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/random-4300-Grouping-Web.png"
+			},	{
+				"id": 4,
+				"sku": "460155",
+				"handle": "rv-4300",
+				"name": "rv 4300",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/rv-4300-Grouping-Web.png"
+			},	{
+				"id": 5,
+				"sku": "460156",
+				"handle": "enterprise-4000",
+				"name": "Enterprise 4000",
+				"imageUrl": "https://assets.wilsonelectronics.com/m/79d39877112e22bf/original/Enterprise-4000-Grouping-Web.png"
+			}
+		],
+		"count": 5
+	}
+}

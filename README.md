@@ -60,3 +60,6 @@
   localhost:3000/friends/
 
 ```
+### Extra Resources
+
+  1. Changing port: json-server -p 4000 db.json
